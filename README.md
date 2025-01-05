@@ -25,7 +25,7 @@ realtek	ALC233/ALC3236	0x100003, layout 3, 4, 5, 13, 21, 27, 28, 29, 32, 33</li>
 <li>HDD TOSHIBA DT01ACA100
 </li>
 <br>
-hasil jalan dengan baik macos11<br>
+hasil jalan dengan baik macos11 big sur<br>
 display igpu intel acceleration= ok ; audio internal= ok; lan ethernet= ok ; wifi= ok; keyboard/mouse usb= ok;<br>
 wacom pen tablet(driver dowbload di situs wacom.com)= ok
 
